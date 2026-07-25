@@ -174,7 +174,7 @@ GitHub
 https://github.com/ronakdhandhukiya
 
 LinkedIn  
-()
+www.linkedin.com/in/ronak-dhandhukiya
 
 ---
 
