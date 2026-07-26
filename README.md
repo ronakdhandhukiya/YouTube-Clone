@@ -5,6 +5,12 @@ A modern YouTube Clone built with React.js that recreates the core YouTube exper
 The application allows users to search and watch videos, manage their own library, switch between light and dark themes, and enjoy a smooth user experience with loading skeletons and protected routes.
 
 ---
+## Project Links
+
+- 🌐 **Live Demo:** [View Live](https://you-tube-clone-five-bay.vercel.app/)
+
+- 💻 **GitHub Repository:** [Source Code](https://github.com/ronakdhandhukiya/YouTube-Clone.git)
+
 
 ## Overview
 
@@ -170,11 +176,11 @@ Some features that can be added in future versions
 
 **Ronak Dhandhukiya**
 
-GitHub  
-https://github.com/ronakdhandhukiya
+GitHub : https://github.com/ronakdhandhukiya
 
-LinkedIn  
-www.linkedin.com/in/ronak-dhandhukiya
+LinkedIn :  www.linkedin.com/in/ronak-dhandhukiya
+
+Live Demo : https://you-tube-clone-five-bay.vercel.app/
 
 ---
 
